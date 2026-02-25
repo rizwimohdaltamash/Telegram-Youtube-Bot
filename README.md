@@ -120,8 +120,8 @@ node src/bot.js
 
 ## 📸 Screenshots
 *(Visual demos of interaction flow)*
-- **Multi-language Query**: ![Lang Demo](/assets/lang.png)
-- **Deep Dive**: ![Deep Dive Demo](/assets/deepdive.png)
+- **Screenshot 1**: ![Screenshot 1](./assests/ss1.png)
+- **Screenshot 2**: ![Screenshot 2](./assests/ss2.png)
 
 ---
 *Built with ❤️ utilizing Node.js & local AI capabilities.*
